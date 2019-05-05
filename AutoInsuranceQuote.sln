@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoInsuranceQuote", "AutoInsuranceQuote\AutoInsuranceQuote.csproj", "{FBAF090C-E8B4-4A6A-83F1-11A0EA622026}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBAF090C-E8B4-4A6A-83F1-11A0EA622026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAF090C-E8B4-4A6A-83F1-11A0EA622026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAF090C-E8B4-4A6A-83F1-11A0EA622026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAF090C-E8B4-4A6A-83F1-11A0EA622026}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEBC6CA5-BF89-494D-99AF-F9244CC4B573}
+	EndGlobalSection
+EndGlobal
