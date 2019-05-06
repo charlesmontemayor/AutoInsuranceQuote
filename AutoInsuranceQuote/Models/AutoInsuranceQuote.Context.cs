@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace AutoInsuranceQuote
+namespace AutoInsuranceQuote.Models
 {
     using System;
     using System.Data.Entity;
